@@ -1,51 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saravana%20Bava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20Enthusiast%20%7C%20Building%20Scalable%20Web%20Apps&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saravana%20Bava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
-<a href="https://github.com/saravanabava2704">
-  <img src="https://komarev.com/ghpvc/?username=saravanabava2704&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile views"/>
-</a>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Development+Engineer+Intern;Full-Stack+MERN+Developer;B.Tech+IT+%40+NIET+%7C+CGPA+8.95;Always+Learning+%2B+Building)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Development+Engineer+Intern;Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```javascript
-const saravana = {
-  name: "Saravana Bava",
-  location: "Coimbatore, Tamil Nadu, India",
-  degree: "B.Tech in Information Technology (Honours)",
-  college: "Nehru Institute of Engineering and Technology",
+```java
+public class SaravanaBava {
+    private String name = "Saravana Bava";
+    private String location = "Coimbatore, Tamil Nadu, India";
+    private String degree = "B.Tech in Information Technology (Honours)";
 
-  stack: {
-    languages: ["JavaScript", "Java", "C", "SQL"],
-    frontend: ["React.js", "Bootstrap", "HTML", "CSS"],
-    backend: ["Node.js", "Express.js"],
-    databases: ["MongoDB", "MySQL"],
-    tools: ["Git", "GitHub", "VS Code"],
-  },
+    private String[] stack = {
+        "Java", "JavaScript", "C", "SQL",
+        "React.js", "Node.js", "Express.js",
+        "MongoDB", "MySQL", "Bootstrap"
+    };
 
-  currentlyLearning: ["Advanced DSA", "System Design", "Cloud Deployment"],
+    private String[] currentlyLearning = {
+        "Advanced System Design",
+        "Cloud Deployment",
+        "DevOps Fundamentals"
+    };
 
-  funFact: "Rebuilt Instagram's UI from scratch just to learn component architecture 😄",
+    private String funFact =
+        "I love turning real-world problems " +
+        "into full-stack MERN applications!";
 
-  motto: () => "Code. Debug. Deploy. Repeat.",
-};
-
-console.log(saravana.motto());
+    public String motto() {
+        return "Code. Debug. Deploy. Repeat.";
+    }
+}
 ```
 
-<br/>
+<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
@@ -62,6 +57,14 @@ console.log(saravana.motto());
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Cloud & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 **Databases**
 
@@ -70,9 +73,8 @@ console.log(saravana.motto());
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 <br/>
 
@@ -80,34 +82,30 @@ console.log(saravana.motto());
 
 <div align="center">
 
-<a href="https://github.com/saravanabava2704">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saravanabava2704&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/saravanabava-dev">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=saravanabava-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/saravanabava2704">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanabava2704&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/saravanabava-dev">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanabava-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=saravanabava2704&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=saravanabava-dev&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saravanabava2704&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saravanabava-dev&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
 
 </div>
 
-<br/>
-
-## 🏆 Trophy Wall
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=saravanabava2704&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=saravanabava-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
 </div>
 
@@ -116,19 +114,20 @@ console.log(saravana.motto());
 ## 💼 Work Experience
 
 <details>
-<summary><b>M8IT Solutions — Software Development Engineer Intern | Feb 2026 – May 2026 | Coimbatore, Tamil Nadu</b></summary>
+<summary><b>M8IT Solutions — Software Development Engineer Intern (Feb 2026 – May 2026) | Coimbatore, Tamil Nadu</b></summary>
 <br/>
 
 > `MongoDB` `Express.js` `React.js` `Node.js` `Bootstrap`
 
-- Worked as a Software Development Engineer Intern in a full-stack team, developing scalable web applications, implementing CRUD operations, and enhancing user experience.
+- Worked as a Software Development Engineer Intern in a full-stack team, responsible for developing scalable web applications.
+- Implemented CRUD operations end-to-end across the application stack, enhancing overall user experience.
 - Designed, built, and integrated RESTful APIs to enable seamless frontend-backend communication.
 - Improved overall system efficiency through debugging and real-world application development.
 
 </details>
 
 <details>
-<summary><b>EduSkills Foundation — Frontend Developer Intern | Sep 2024 – Nov 2024 | Remote</b></summary>
+<summary><b>EduSkills Foundation — Frontend Developer Intern (Sep 2024 – Nov 2024) | Remote</b></summary>
 <br/>
 
 > `HTML` `CSS` `JavaScript` `React.js` `Bootstrap`
@@ -136,37 +135,38 @@ console.log(saravana.motto());
 - Developed responsive and user-friendly web interfaces using HTML, CSS, JavaScript, React.js, and Bootstrap.
 - Built reusable UI components and implemented modern frontend design practices.
 - Improved page responsiveness and ensured cross-browser compatibility.
+- Enhanced overall website performance and user experience through iterative design.
 
 </details>
 
 <br/>
 
-## 🚀 Featured Projects
+## 🏆 Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**Laundry Service Application**](https://github.com/saravanabava2704) | React.js, Node.js, Express.js, MongoDB, Bootstrap | Full-stack app for managing laundry orders; secure authentication, order management system, and RESTful APIs; responsive UI across all devices |
-| [**Instagram Clone**](https://github.com/saravanabava2704) | HTML, CSS, React.js, Bootstrap | Front-end social media clone replicating feed, posts, likes, comments, and profile pages; built with React.js component-based architecture |
+| **[Laundry Service Application](https://github.com/saravanabava-dev)** | React.js, Node.js, Express.js, MongoDB, Bootstrap | Full-stack app for managing laundry orders; secure authentication, order management system, and RESTful APIs with a responsive UI across all devices. |
+| **[Instagram Clone](https://github.com/saravanabava-dev)** | HTML, CSS, React.js, Bootstrap | Front-end social clone replicating feed, posts, likes, comments & profile pages; built with reusable component-based architecture. |
+| **MERN Full-Stack Builds** | MongoDB, Express.js, React.js, Node.js | Multiple full-stack MERN applications demonstrating real-world development and deployment experience. |
 
 </div>
 
 <br/>
 
-## 🏅 Achievements
+## 🌟 Achievements
 
 <div align="center">
 
-| | Achievement | Details |
+| 🏅 | Achievement | Details |
 |---|---|---|
-| 🎤 | Smart India Hackathon | Presented project in the Internal Round 2025, competing among top teams at institutional level |
-| 📜 | NPTEL Certification | Programming in Java (IIT Kharagpur) |
-| 🥈 | Academic Rank | Consistently secured 2nd Rank in Academics across semesters |
-| 📜 | Coursera (IBM) Certification | Front-End Web Development |
-| 🛠️ | MERN Projects | Built multiple full-stack MERN applications with real-world development & deployment experience |
-| 💻 | Coding Contests | Participated in coding contests and technical events |
-| 🥈 | Technical Symposium | Secured 2nd Prize at a National Level Technical Symposium |
+| 🚀 | Smart India Hackathon | Presented project in Internal Round 2025, competing among top teams at institutional level |
+| 📜 | NPTEL Certification | Programming in Java (IIT Kharagpur) — strengthened core programming & problem-solving skills |
+| 🎓 | Academic Rank | Consistently secured 2nd Rank in Academics across semesters |
+| 💻 | Coursera (IBM) Certification | Certified in Front-End Web Development |
+| 🥈 | National Level Technical Symposium | Secured 2nd Prize, competing among participants from multiple institutions |
+| 🛠️ | MERN Stack Projects | Built multiple full-stack MERN applications with real deployment experience |
 
 </div>
 
@@ -178,30 +178,26 @@ console.log(saravana.motto());
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.Tech in Information Technology (Honours) | Nehru Institute of Engineering and Technology | Sept 2023 – May 2027 | CGPA 8.95 |
+| B.Tech in Information Technology (Honours) | Nehru Institute of Engineering and Technology, Tamil Nadu | Sept 2023 – May 2027 | CGPA: 8.95 |
 
 </div>
-
-<br/>
 
 ## 📚 Currently Learning
 
 ```
-🧱 System Design        → Scalability, Caching, Load Balancing
-🧠 Advanced DSA         → Graphs, DP, Greedy Algorithms
-☁️ Cloud Deployment     → CI/CD, Hosting MERN Apps
+🧱 System Design       → Scalability, Load Balancing, Caching
+☁️ Cloud Deployment    → AWS Basics, CI/CD Pipelines
+⚙️ DevOps              → Docker, Containerization Fundamentals
 ```
 
 <br/>
 
-## 📫 Connect with Me
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saravanabava2704@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saravanabava-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saravanabava2704)
+📫 **Reach Me:** [saravanabava2704@gmail.com](mailto:saravanabava2704@gmail.com)
 
-<sub>Also active on Code360 (Coding Ninjas), GeeksforGeeks, and LeetCode — add your profile links here.</sub>
-
-<br/>
+<img src="https://komarev.com/ghpvc/?username=saravanabava-dev&style=flat-square&color=70a5fd" alt="Profile Views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
