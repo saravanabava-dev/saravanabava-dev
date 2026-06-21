@@ -1,54 +1,38 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saravana%20Bava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Development%20Engineer%20Intern%20%7C%20Full%20Stack%20MERN%20Developer&descAlignY=62&descSize=16" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saravana%20Bava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Development%20Engineer%20%7C%20Passionate%20About%20DSA%20and%20Problem%20Solving&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img width="650" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&height=50&lines=Software+Development+Engineer+Intern;Full+Stack+MERN+Developer;B.Tech+IT+Student+%7C+CGPA+8.95;Building+Scalable+Web+Applications;Code+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Repeat" alt="Typing SVG" />
+<img width="750" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&height=50&lines=Software+Development+Engineer;B.Tech+IT+Student+%7C+CGPA+8.95;Full+Stack+MERN+Developer;Code+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Repeat" alt="Typing SVG"/>
 </a>
 
+</div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saravana%20Bava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Development%20Engineer%20%7C%20Passionate%20About%20DSA%20and%20Problem%20Solving%20Software%20Development%20descAlignY=62&descSize=16" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+<img width="750" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&height=50&lines=Software+Development+Engineer;B.Tech+IT+Student+%7C+CGPA+8.95;Code+•+Build+•+Deploy+•+Repeat" alt="Typing SVG"/>
+</a>
 
 </div>
 
 ---
 
-
-
 ### 👨‍💻 About Me
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212744275-2d1e0b4d-f7d6-4c9a-9d09-df3f3f44b5d0.gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212744275-2d1e0b4d-f7d6-4c9a-9d09-df3f3f44b5d0.gif"/>
 
-```javascript
-const saravanaBava = {
-    role: "Software Development Engineer Intern",
-    degree: "B.Tech Information Technology (Honours)",
-    college: "Nehru Institute of Engineering and Technology",
-    cgpa: "8.95",
-
-    skills: [
-        "Java",
-        "JavaScript",
-        "React.js",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "MySQL"
-    ],
-
-    currentlyLearning: [
-        "System Design",
-        "AWS",
-        "Advanced DSA"
-    ],
-
-    motto: "Code • Build • Deploy • Repeat"
-};
-```
-
+- 🎓 B.Tech Information Technology (Honours) student at **Nehru Institute of Engineering and Technology**
+- 💻 Full Stack MERN Developer with hands-on experience in building scalable web applications
+- 🚀 Software Development Engineer Intern experienced in MERN stack development
+- 🌱 Currently learning **System Design, AWS Cloud, and Advanced DSA**
+- ⚡ Skilled in **Java, JavaScript, React.js, Node.js, Express.js, MongoDB, and MySQL**
+- 🎯 Interested in Software Development, Backend Engineering, and Problem Solving
 
 <br clear="right"/>
 
+---
 ---
 
 ### 🛠️ Tech Stack
