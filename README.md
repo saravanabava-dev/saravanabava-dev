@@ -3,19 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saravana%20Bava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Development%20Engineer%20%7C%20Passionate%20About%20DSA%20and%20Problem%20Solving&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img width="750" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&height=50&lines=Software+Development+Engineer;B.Tech+IT+Student+%7C+CGPA+8.95;Full+Stack+MERN+Developer;Code+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Repeat" alt="Typing SVG"/>
+<img width="750" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&height=50&lines=Software+Development+Engineer;B.Tech+IT+Student+%7C+CGPA+8.95;DSA+Enthusiast+%7C+Problem+Solver;Code+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Repeat;" alt="Typing SVG"/>
 </a>
 
 </div>
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saravana%20Bava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Development%20Engineer%20%7C%20Passionate%20About%20DSA%20and%20Problem%20Solving%20Software%20Development%20descAlignY=62&descSize=16" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img width="750" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&height=50&lines=Software+Development+Engineer;B.Tech+IT+Student+%7C+CGPA+8.95;Code+•+Build+•+Deploy+•+Repeat" alt="Typing SVG"/>
-</a>
-
-</div>
 
 ---
 
@@ -33,7 +26,7 @@
 <br clear="right"/>
 
 ---
----
+
 
 ### 🛠️ Tech Stack
 
@@ -160,7 +153,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/saravanabava2704)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
 
-<img src="https://komarev.com/ghpvc/?username=saravanabava2704&style=flat-square&color=70a5fd" alt="Profile views"/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
